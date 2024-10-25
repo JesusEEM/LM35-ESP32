@@ -11,7 +11,7 @@ Aplicacion movil para solicitar a un ESP32 la temperatura de un sensor LM35.
 La aplicacion fue construida en: [MIT APP INVENTOR](https://appinventor.mit.edu/)
 
 ## Codigo:
-```arduino
+```ino
 //Se usa la libreria BluetoothSerial para realizar la conección
 //Entre la aplicacion movil y el ESP-32
 #include "BluetoothSerial.h"
